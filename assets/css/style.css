@@ -23,7 +23,12 @@ body{
 .section{
    background-color: #F2F2F2;
 }
+.cardWidth{
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 85%;
 
+}
 /* ul{
     list-style-type: none;
     overflow: hidden;
